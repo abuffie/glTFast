@@ -1,6 +1,6 @@
 {
     "name": "glTFastSchema",
-    "rootNamespace": "",
+    "rootNamespace": "GLTFast",
     "references": [
         "Unity.Mathematics",
         "Unity.Meshopt.Decompress"

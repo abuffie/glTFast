@@ -1,5 +1,6 @@
 {
     "name": "glTFastEditorTests",
+    "rootNamespace": "GLTFast",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
