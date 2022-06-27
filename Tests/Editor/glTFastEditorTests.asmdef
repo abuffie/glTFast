@@ -1,6 +1,6 @@
 {
     "name": "glTFastEditorTests",
-    "rootNamespace": "",
+    "rootNamespace": "GLTFast",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
@@ -17,7 +17,7 @@
     "precompiledReferences": [
         "nunit.framework.dll"
     ],
-    "autoReferenced": true,
+    "autoReferenced": false,
     "defineConstraints": [
         "UNITY_INCLUDE_TESTS"
     ],

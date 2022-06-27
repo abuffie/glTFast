@@ -1,6 +1,6 @@
 {
     "name": "glTFastEditor",
-    "rootNamespace": "",
+    "rootNamespace": "GLTFast",
     "references": [
         "Unity.Mathematics",
         "glTFast",

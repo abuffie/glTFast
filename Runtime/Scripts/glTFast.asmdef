@@ -1,6 +1,6 @@
 {
     "name": "glTFast",
-    "rootNamespace": "",
+    "rootNamespace": "GLTFast",
     "references": [
         "glTFastSchema",
         "glTFastFakeSchema",
