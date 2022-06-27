@@ -1,6 +1,6 @@
 {
     "name": "glTFast.Export",
-    "rootNamespace": "GLTFast",
+    "rootNamespace": "",
     "references": [
         "glTFast",
         "glTFastSchema",
